@@ -1,13 +1,13 @@
 #### App is live and running at 
 
-### https://nextjs-ecommerce-typescript.vercel.app/
+### https://flower-ecommerce-tau.vercel.app/
 
 
  - don't forget to leave a star ! :)
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Tarek Eissa](https://www.github.com/tarek421995)
 
 ## Features
 
@@ -57,7 +57,7 @@ More Functionality will be added with time
 
 
 ## Tech
-- Nextjs 13
+- Nextjs
 - Typescript
 - tailwind css
 - Redux toolkit
@@ -115,58 +115,3 @@ Install my-project with npm
 
 #### Completed Order List
 ![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/278e33ae-b7bb-4cf2-8ed3-18e06d1f368c)
-
-
-
-#### Landing Page 
-
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a4a21833-3f42-479f-99b8-1dba1b459f1b)
-
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/bb8141aa-9ded-4a77-a653-c86733bd7871)
-
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/9970dabd-eb75-4c6b-8349-d55897a5f9c4)
-
-
-#### view Product of Specific category with Dynamic Breadcamp 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/7babf0cb-2b67-439d-9859-61f21d2ce453)
-
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/df41987a-d2e3-4681-b814-41d1986de7af)
-
-#### view Product of Detail with Dynamic Breadcamp 
-
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/9eda3f30-3a12-4401-952d-3a694b097e77)
-
-#### Cart Page 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/23b08511-0e6e-41c1-8b9d-7f72b5b65952)
-
-#### Alert IF Item Quantity isn't available in stock 
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/3a129a57-2df3-440a-9b1c-5c43348027f5)
-
-
-#### Favourite Products
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a2debeef-585c-4bc5-bd39-4c6680deee7d)
-
-
-#### Delete Favourite Products
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/092ce378-7db0-4119-8130-65f5330cd689)
-
-
-#### Search Favourite Products with product Name
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/39e4d3f6-425c-444f-b316-5b2a2b587434)
-
-#### Order a Product
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/a958670a-8d89-411c-af41-901d933920d7)
-
-#### Track Orders
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/8501280b-dbf8-4fdc-abf3-5afb003ac251)
-
-
-#### Check order Details
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/139f02be-806f-4d8c-8cba-51948682277a)
-
-
-
-
-
-
-    

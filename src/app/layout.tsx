@@ -2,7 +2,7 @@ import './globals.css'
 import { Poppins } from 'next/font/google'
 import { Providers } from '@/Store/Provider'
 import 'react-toastify/dist/ReactToastify.css';
-
+import { SpeedInsights } from '@vercel/speed-insights/next';
 const poppin = Poppins({
   weight: ['100', '400'],
   subsets: ['latin'],
@@ -25,6 +25,7 @@ export default function RootLayout({
       <body className={poppin.className}>
         <Providers>
           {children}
+          <SpeedInsights />
         </Providers>
       </body>
 

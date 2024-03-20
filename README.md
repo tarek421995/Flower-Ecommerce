@@ -87,7 +87,7 @@ Install my-project with npm
   npm run preview (To View Production Server )
 ```
 
-### Screen shots
+<!-- ### Screen shots
 ####  Admin Dashboard
 ![1](https://user-images.githubusercontent.com/90745903/236361005-89f40e51-3aff-4e66-8aa2-941138a15316.png)
 
@@ -114,4 +114,4 @@ Install my-project with npm
 
 
 #### Completed Order List
-![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/278e33ae-b7bb-4cf2-8ed3-18e06d1f368c)
+![image](https://github.com/Abdullah-moiz/nextjs-ecommerce/assets/90745903/278e33ae-b7bb-4cf2-8ed3-18e06d1f368c) -->

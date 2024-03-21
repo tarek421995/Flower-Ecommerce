@@ -2,9 +2,6 @@
 
 ### https://flower-ecommerce-tau.vercel.app/
 
-
- - don't forget to leave a star ! :)
-
 ## Authors
 
 - [Tarek Eissa](https://www.github.com/tarek421995)
